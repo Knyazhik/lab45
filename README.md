@@ -23,5 +23,6 @@
 
 Кнопки "Сохранить в БД" и "Загрузить из БД" позволяют напрямую взаимодействовать с базой данных SQLite3. При успешном сохранении/загрузке данных выводится соотвествующее сообщение на экран пользователя:
 
-![изображение](https://github.com/user-attachments/assets/50c07857-3b6c-4117-bd3c-0d8cefeba07f) ![изображение](https://github.com/user-attachments/assets/901c2769-d74e-4f74-aba0-04d98ebe2cf6)
+![изображение](https://github.com/user-attachments/assets/50c07857-3b6c-4117-bd3c-0d8cefeba07f) ![изображение](https://github.com/user-attachments/assets/e1039d73-f1be-4a86-83f3-c16ac6663006)
+
 
